@@ -1,5 +1,5 @@
 {
-  "applicationId": "js.neutralino.sample",
+  "applicationId": "com.zonecode.distanceapp",
   "version": "1.1.0",
-  "resourcesURL": "https://raw.githubusercontent.com/اسم_حسابك/اسم_المستودع/main/updates/resources.neu"
+  "resourcesURL": "https://raw.githubusercontent.com/zoneCode87/distance_app/main/resources.neu"
 }
