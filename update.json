@@ -1,5 +1,5 @@
 {
   "applicationId": "com.zonecode.distanceapp",
   "version": "1.8.0",
-  "resourcesURL": "https://github.com/zoneCode87/distance_app/releases/download/v1.3.0/resources.neu"
+  "resourcesURL": "https://cdn.jsdelivr.net/gh/zoneCode87/distance_app@v1.8.0/dist/distance_app/resources.neu"
 }
